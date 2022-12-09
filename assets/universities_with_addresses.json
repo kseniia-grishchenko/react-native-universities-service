@@ -1,0 +1,1874 @@
+[
+  {
+    "address": "Volodymyrska St, 60, Kyiv, Ukraine, 01033",
+    "excellence_rank": "1504",
+    "university_name": "National Taras Shevchenko University of Kyiv / Київський національний університет Тараса Шевченка",
+    "world_rank": "1320"
+  },
+  {
+    "address": "Ryms'koho-Korsakova St, 2, Sumy, Sums'ka oblast, Ukraine, 40000",
+    "excellence_rank": "2030",
+    "university_name": "Sumy State University / Сумський державний університет",
+    "world_rank": "1443"
+  },
+  {
+    "address": "Peremohy Ave, 37, Kyiv, Ukraine, 03056",
+    "excellence_rank": "2531",
+    "university_name": "National Technical University of Ukraine Kyiv Polytechnic Institute / Національний технічний університет України Київський політехнічний інститут",
+    "world_rank": "1515"
+  },
+  {
+    "address": "Liubomyra Huzara Ave, 1, Kyiv, Ukraine, 03058",
+    "excellence_rank": "3067",
+    "university_name": "National Aviation University (Kyiv International University of Civil Aviation) / Національний авіаційний університет",
+    "world_rank": "1902"
+  },
+  {
+    "address": "Nezalezhnosti Ave, 6, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "2344",
+    "university_name": "Kharkiv National University VN Karazin / Харківський національний університет В Н Каразіна",
+    "world_rank": "2142"
+  },
+  {
+    "address": "Nauky Ave, 14, Kharkiv, Kharkivs'ka oblast, Ukraine, 61166",
+    "excellence_rank": "2854",
+    "university_name": "Kharkiv National University of Radio Electronics / Харківський національний університет радіоелектроніки",
+    "world_rank": "2306"
+  },
+  {
+    "address": "Kyrpychova St, 2, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "3104",
+    "university_name": "(1) National Technical University Kharkiv Polytechnical Institute / Национальный технический университет Харьковский политехнический институт",
+    "world_rank": "2568"
+  },
+  {
+    "address": "Heroiv Oborony St, 15, Kyiv, Ukraine, 03041",
+    "excellence_rank": "2969",
+    "university_name": "National University of Life and Environmental Sciences of Ukraine (National Agricultural University) / Національний Університет біоресурсів і природокористування України",
+    "world_rank": "2662"
+  },
+  {
+    "address": "Stepana Bandery St, 12, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+    "excellence_rank": "1474",
+    "university_name": "Lviv Polytechnic National University / Національний університет Львівська політехніка",
+    "world_rank": "2894"
+  },
+  {
+    "address": "Voli Square, 1, Ternopil, Ternopil's'ka oblast, Ukraine, 46001",
+    "excellence_rank": "3263",
+    "university_name": "Ternopil National Medical University / Тернопiльський Національний Медичний Університет",
+    "world_rank": "2940"
+  },
+  {
+    "address": "L'vivs'ka St, 11, Ternopil, Ternopil's'ka oblast, Ukraine, 46009",
+    "excellence_rank": "3964",
+    "university_name": "West Ukrainian National University / Західноукраїнський національний університет",
+    "world_rank": "3196"
+  },
+  {
+    "address": "Shevchenka St, 57, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76000",
+    "excellence_rank": "2762",
+    "university_name": "Vasyl Stefanyk Precarpathian National University / Прикарпатський національний університет Василя Стефаника",
+    "world_rank": "3440"
+  },
+  {
+    "address": "Universytets'ka St, 14, Uzhhorod, Zakarpats'ka oblast, Ukraine, 88000",
+    "excellence_rank": "3845",
+    "university_name": "Uzhhorod National University / Ужгородський національний університет",
+    "world_rank": "3449"
+  },
+  {
+    "address": "Universytetska St, 1, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+    "excellence_rank": "3007",
+    "university_name": "Ivan Franko National University of Lviv / Львівський національний університет Івана Франка",
+    "world_rank": "3469"
+  },
+  {
+    "address": "Dmytra Yavornytskoho Ave, 19, Дніпро́, Dnipropetrovs'ka oblast, Ukraine, 49005",
+    "excellence_rank": "4940",
+    "university_name": "Dnipro University of Technology / Національний гірничий університет",
+    "world_rank": "3480"
+  },
+  {
+    "address": "Haharina Ave, 72, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "4292",
+    "university_name": "Dnipro National University Honchar / Дніпропетровський національний університет О Гончара",
+    "world_rank": "3508"
+  },
+  {
+    "address": "Vulytsya Vitaliya Matusevycha, 11, Kryvyi Rih, Dnipropetrovs'ka oblast, Ukraine, 50000",
+    "excellence_rank": "3695",
+    "university_name": "Kryvyi Rih National University / Криворізький національний університет",
+    "world_rank": "3559"
+  },
+  {
+    "address": "Peremohy Ave, 54/1, Kyiv, Ukraine, 03057",
+    "excellence_rank": "4260",
+    "university_name": "(1) Kyiv National Economic University Vadym Hetman / Київський нацiональний економiчний унiверситет",
+    "world_rank": "3576"
+  },
+  {
+    "address": "Nemyrovycha-Danchenka St, 2, Kyiv, Ukraine, 01011",
+    "excellence_rank": "5112",
+    "university_name": "Kyiv National University of the Technology and Design / Київський Національний Університет Технологій та Дизайну",
+    "world_rank": "3658"
+  },
+  {
+    "address": "Pyrohova St, 56, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21018",
+    "excellence_rank": "4700",
+    "university_name": "Vinnitsa National Pirogov Memorial Medical University / Вінницький національний медичний університет М І Пирогова",
+    "world_rank": "3681"
+  },
+  {
+    "address": "Teatral'na Square, 2, Chernivtsi, Chernivets'ka oblast, Ukraine, 58002",
+    "excellence_rank": "4397",
+    "university_name": "Bukovinian State Medical University / Буковинський державний медичний університет",
+    "world_rank": "3689"
+  },
+  {
+    "address": "Rus'ka St, 56, Ternopil, Ternopil's'ka oblast, Ukraine, 46001",
+    "excellence_rank": "4464",
+    "university_name": "Ternopil Ivan Pul'uj National Technical University / Тернопільський національний технічний університет І Пулюя",
+    "world_rank": "3730"
+  },
+  {
+    "address": "Pushkins'ka St, 53, Kharkiv, Kharkivs'ka oblast, Ukraine, 61002",
+    "excellence_rank": "4433",
+    "university_name": "National University of Pharmacy Ukraine / Національний Фармацевтичний Університет",
+    "world_rank": "3733"
+  },
+  {
+    "address": "Marshala Bazhanova St, 17, Kharkiv, Kharkivs'ka oblast, Ukraine, 61002",
+    "excellence_rank": "4940",
+    "university_name": "O M Beketov National University of Urban Economy in Kharkiv / Харківський національний університет міського господарства О М Бекетова",
+    "world_rank": "3800"
+  },
+  {
+    "address": "Chkalova St, 17, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "3172",
+    "university_name": "National Aerospace University Kharkiv Aviation Institute / Национальный аэрокосмический университет Н Е Жуковского",
+    "world_rank": "3823"
+  },
+  {
+    "address": "Khmel'nyts'ke Hwy, 95, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+    "excellence_rank": "4738",
+    "university_name": "Vinnitsa National Technical University / Вінницький національний технічний університет",
+    "world_rank": "3923"
+  },
+  {
+    "address": "Voli Ave, 13, Luts'k, Volyns'ka oblast, Ukraine, 43025",
+    "excellence_rank": "4174",
+    "university_name": "Lesya Ukrainka East European National University / Волинський національний університет Лесі Українки",
+    "world_rank": "3950"
+  },
+  {
+    "address": "Hryhoriya Skovorody St, 2, Kyiv, Ukraine, 04655",
+    "excellence_rank": "5538",
+    "university_name": "National University of Kyiv Mohyla Academy / Національний університет Києво Могилянська академія",
+    "world_rank": "3954"
+  },
+  {
+    "address": "Korpus A, Vulytsya Kioto, 19, Kyiv, Ukraine, 02000",
+    "excellence_rank": "4292",
+    "university_name": "Kyiv National University of Trade and Economics / Київський національний торговельно економічний університет",
+    "world_rank": "4055"
+  },
+  {
+    "address": "Feijerbakha Square, 7, Kharkiv, Kharkivs'ka oblast, Ukraine, 61001",
+    "excellence_rank": "4260",
+    "university_name": "Kharkiv State Academy of Railway Transport / Українська державна академія залізничного транспорту",
+    "world_rank": "4076"
+  },
+  {
+    "address": "Donetsk, Donetsk Oblast, Ukraine",
+    "excellence_rank": "5596",
+    "university_name": "Donetsk National Technical University / Донецький національний технічний університет",
+    "world_rank": "4252"
+  },
+  {
+    "address": "Kotsyubyns'koho St, 2, Chernivtsi, Chernivets'ka oblast, Ukraine, 58012",
+    "excellence_rank": "3407",
+    "university_name": "(1) Chernivtsi National University Y Fedkovych / Чернівецький національний університет Ю Федьковича",
+    "world_rank": "4350"
+  },
+  {
+    "address": "Yaroslava Mudrogo St, 25, Kharkiv, Kharkivs'ka oblast, Ukraine, 61002",
+    "excellence_rank": "4497",
+    "university_name": "Kharkiv State Automobile and Highway Technical University / Харківський національний автомобільно дорожній університет",
+    "world_rank": "4353"
+  },
+  {
+    "address": "Dvoryans'ka St, 2, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "4097",
+    "university_name": "Odesa National I I Mechnikov University / Одеський національний університет І І Мечникова",
+    "world_rank": "4473"
+  },
+  {
+    "address": "Donetsk, Donetsk Oblast, Ukraine",
+    "excellence_rank": "5112",
+    "university_name": "Donetsk National University / Донецький національний університет",
+    "world_rank": "4474"
+  },
+  {
+    "address": "Ivano-Frankivsk, Ivano-Frankivsk Oblast, Ukraine, 76000",
+    "excellence_rank": "3724",
+    "university_name": "Ivano Frankivsk National Technical University of Oil and Gas / Івано Франківський національний технічний університет нафти і газу",
+    "world_rank": "4558"
+  },
+  {
+    "address": "Zhukovs'koho St, 64, Zaporizhzhia, Zaporiz'ka oblast, Ukraine, 69063",
+    "excellence_rank": "4292",
+    "university_name": "Zaporozhya Polytechnical National University / Національний Університет Запорізька Політехніка",
+    "world_rank": "4579"
+  },
+  {
+    "address": "Volodymyrska St, 68, Kyiv, Ukraine, 01033",
+    "excellence_rank": "5316",
+    "university_name": "National University of Food Technologies Kyiv / Національний Університет Харчових Технологій",
+    "world_rank": "4635"
+  },
+  {
+    "address": "Nauky Ave, 4, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "4558",
+    "university_name": "(1) Kharkiv National Medical University / Харківський національний медичний університет",
+    "world_rank": "4650"
+  },
+  {
+    "address": "м, вулиця Жуковського, 66, Запоріжжя, Запорізька область, Ukraine, 69600",
+    "excellence_rank": "5870",
+    "university_name": "Zaporizhzhya National University / Запорізький національний університет",
+    "world_rank": "4710"
+  },
+  {
+    "address": "Haharina Ave, 8, Дніпро́, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "4234",
+    "university_name": "Ukrainian State University of Chemical Engineering / Український державний хіміко-технологічний університет",
+    "world_rank": "4925"
+  },
+  {
+    "address": "Pam'yatnyk Mykoli Ostrovsʹkomu, Povitroflots'kyi Ave, Kyiv, Ukraine, 03037",
+    "excellence_rank": "3980",
+    "university_name": "Kyiv National University of Construction and Architecture / Київський національний університет будівництва і архітектури",
+    "world_rank": "4945"
+  },
+  {
+    "address": "вулиця Оборонна, 2, Луганськ, Luhans'ka oblast, Ukraine, 91000",
+    "excellence_rank": "5412",
+    "university_name": "Lugansk National University / Луганський національний університет Та Шевченка",
+    "world_rank": "4961"
+  },
+  {
+    "address": "Kherson, Kherson Oblast, Ukraine, 73000",
+    "excellence_rank": "4366",
+    "university_name": "Kherson State University / Херсонський державний унiверситет",
+    "world_rank": "4978"
+  },
+  {
+    "address": "Nikol's'ka St, 24, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54000",
+    "excellence_rank": "7216",
+    "university_name": "Nikolaev State University VA Suhomlinskogo / Миколаївський національний університет В О Сухомлинського",
+    "world_rank": "5084"
+  },
+  {
+    "address": "Lvivska St, 75, Luts'k, Volyns'ka oblast, Ukraine, 43000",
+    "excellence_rank": "5316",
+    "university_name": "Lutsk National Technical University / Луцький національний технічний університет",
+    "world_rank": "5232"
+  },
+  {
+    "address": "L'vivs'ka St, 15, Odesa, Odes'ka oblast, Ukraine, 65016",
+    "excellence_rank": "6209",
+    "university_name": "Odesa State Environmental University / Одеський державний екологічний університет",
+    "world_rank": "5276"
+  },
+  {
+    "address": "Soborna St, 11, Rivne, Rivnens'ka oblast, Ukraine, 33000",
+    "excellence_rank": "5775",
+    "university_name": "National University of Water and Environmental Engineering / Національний університет водного господарства та природокористування",
+    "world_rank": "5285"
+  },
+  {
+    "address": "Haharina Ave, 4, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49600",
+    "excellence_rank": "4497",
+    "university_name": "National Metallurgical Academy of Ukraine / Национальная Металлургическая академия Украины",
+    "world_rank": "5504"
+  },
+  {
+    "address": "Shevchenka Ave, 1, Odesa, Odes'ka oblast, Ukraine, 65044",
+    "excellence_rank": "4292",
+    "university_name": "Odesa State Polytechnic University / Одесский национальный политехнический университет",
+    "world_rank": "5524"
+  },
+  {
+    "address": "Tarasa Shevchenko Blvd, 13, Kyiv, Ukraine, 01601",
+    "excellence_rank": "4397",
+    "university_name": "Bogomolets National Medical University / Національний медичний університет імені О.О. Богомольця",
+    "world_rank": "5647"
+  },
+  {
+    "address": "Pershotravnevyi Ave, 24, Poltava, Poltavs'ka oblast, Ukraine, 36000",
+    "excellence_rank": "5963",
+    "university_name": "Poltava National Technical University Yuri Kondratyuk / Національний університет Полтавська політехніка імені Юрія Кондратюка",
+    "world_rank": "5660"
+  },
+  {
+    "address": "Bohdana Khmelnytskoho Ave, 18, Melitopol', Zaporiz'ka oblast, Ukraine, 72312",
+    "excellence_rank": "7216",
+    "university_name": "Tavria State Agrotechnological University / Таврійський державний агротехнологічний університет",
+    "world_rank": "5751"
+  },
+  {
+    "address": "Universytets'ka St, 7, Mariupol', Donets'ka oblast, Ukraine, 87500",
+    "excellence_rank": "5024",
+    "university_name": "Pryazovskyi State Technical University / Приазовський державний технічний університет",
+    "world_rank": "5833"
+  },
+  {
+    "address": "Chudnivska St, 103, Zhytomyr, Zhytomyrs'ka oblast, Ukraine, 10005",
+    "excellence_rank": "6565",
+    "university_name": "Zhytomyr Polytechnic State University / Державний університет Житомирська політехніка",
+    "world_rank": "5945"
+  },
+  {
+    "address": "Ryms'koho-Korsakova St, 5, Sumy, Sums'ka oblast, Ukraine, 40000",
+    "excellence_rank": "7216",
+    "university_name": "Sumy Regional Institute of Postgraduate Education / Сумський обласний інститут післядипломної педагогічної освіти",
+    "world_rank": "5983"
+  },
+  {
+    "address": "Pershotravneva St, 20, Kremenchuk, Poltavs'ka oblast, Ukraine, 39600",
+    "excellence_rank": "7216",
+    "university_name": "Kremenchuk Mykhailo Ostrohradskyi National University (Polytechnic University) / Кременчуцький національний університет Михайла Остроградського",
+    "world_rank": "5992"
+  },
+  {
+    "address": "Vulytsya Akademichna, 72, Kramators'k, Donets'ka oblast, Ukraine, 84300",
+    "excellence_rank": "4980",
+    "university_name": "Donbas State Academy of Engineering / Донбаська державна машинобудівна академія",
+    "world_rank": "6138"
+  },
+  {
+    "address": "Bulvarno-Kudriavska St, 18/2, Kyiv, Ukraine, 04053",
+    "excellence_rank": "7216",
+    "university_name": "Borys Grinchenko Kyiv University / Київський Університет Бориса Грінченка",
+    "world_rank": "6192"
+  },
+  {
+    "address": "Chernyshevs'koho St, 24А, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "Prydneprovskaya State Academy of Construction and Architecture / Придніпровська державна академія будівництва та архітектури",
+    "world_rank": "6365"
+  },
+  {
+    "address": "Instytuts'ka St, 11, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+    "excellence_rank": "6079",
+    "university_name": "Khmelnitsky National University / Хмельницький нацiональний унiверситет",
+    "world_rank": "6386"
+  },
+  {
+    "address": "20-А, Luhans'k, Luhans'ka oblast, Ukraine, 91000",
+    "excellence_rank": "7216",
+    "university_name": "Volodymyr Dahl East Ukrainian National University / Східноукраїнський національний університет В Даля",
+    "world_rank": "6424"
+  },
+  {
+    "address": "Pushkins'ka St, 77, Kharkiv, Kharkivs'ka oblast, Ukraine, 61024",
+    "excellence_rank": "7216",
+    "university_name": "Yaroslav Mudryi National Law University / Національний юридичний університет Ярослава Мудрого",
+    "world_rank": "6440"
+  },
+  {
+    "address": "Pekarska St, 69, L'viv, L'vivs'ka oblast, Ukraine, 79010",
+    "excellence_rank": "7216",
+    "university_name": "Lviv Medical University / Львівський національний медичний університет",
+    "world_rank": "6480"
+  },
+  {
+    "address": "Hetmanska St, 20, Melitopol', Zaporiz'ka oblast, Ukraine, 72300",
+    "excellence_rank": "7216",
+    "university_name": "Melitopol State Pedagogical University / Мелітопольський державний педагогічний університет",
+    "world_rank": "6682"
+  },
+  {
+    "address": "Ozerna St, 14, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+    "excellence_rank": "7216",
+    "university_name": "Khmelnytsky Regional Institute of Postgraduate Education / Хмельницький обласний інститут післядипломної педагогічної освіти",
+    "world_rank": "6800"
+  },
+  {
+    "address": "Nauky Ave, 9A, Kharkiv, Kharkivs'ka oblast, Ukraine, 61166",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv National University of Economics / Харківський національний економічний університет",
+    "world_rank": "6862"
+  },
+  {
+    "address": "Valentynivska St, 2, Kharkiv, Kharkivs'ka oblast, Ukraine, 61168",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv National Pedagogical University / Харківський національний педагогічний університет Г С Сковороди",
+    "world_rank": "6887"
+  },
+  {
+    "address": "Kovalia St, 3, Poltava, Poltavs'ka oblast, Ukraine, 36000",
+    "excellence_rank": "5775",
+    "university_name": "Poltava University of Economics and Trade / Полтавський університет економіки і торгівлі",
+    "world_rank": "6960"
+  },
+  {
+    "address": "Plastova St, 31, Rivne, Rivnens'ka oblast, Ukraine, 33000",
+    "excellence_rank": "6372",
+    "university_name": "Rivne State Humanities University / Рівненський державний гуманітарний університет",
+    "world_rank": "6996"
+  },
+  {
+    "address": "",
+    "excellence_rank": "7216",
+    "university_name": "Interregional Academy of Personnel Management / Міжрегіональна Академія управління персоналом",
+    "world_rank": "7038"
+  },
+  {
+    "address": "Velyka Berdychivska St, 40, Zhytomyr, Zhytomyrs'ka oblast, Ukraine, 10002",
+    "excellence_rank": "7216",
+    "university_name": "Zhytomyr Ivan Franko State University / Житомирський державний університет І Франка",
+    "world_rank": "7106"
+  },
+  {
+    "address": "Pyrohova St, 9, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "National Pedagogical University MP Dragomanov / Національний педагогічний університет М П Драгоманова",
+    "world_rank": "7117"
+  },
+  {
+    "address": "Prospect Lev Landau, 27, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv National University of Internal Affairs / Харківський національний університет внутрішніх справ",
+    "world_rank": "7142"
+  },
+  {
+    "address": "Tabirna St, 30-32, Kyiv, Ukraine, 03113",
+    "excellence_rank": "7216",
+    "university_name": "Krok University (Kyiv University of Economics and Law of the CRIC ) / Університет КРОК",
+    "world_rank": "7219"
+  },
+  {
+    "address": "Sicheslavska Naberezhna St, 18, Дніпро́, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "Alfred Nobel University Dnipro (University of Economics and Law) / Дніпропетровський університет Альфреда Нобеля",
+    "world_rank": "7298"
+  },
+  {
+    "address": "Solom'yans'ka Square, 1, Kyiv, Ukraine, 03035",
+    "excellence_rank": "7216",
+    "university_name": "National Academy of Internal Affairs / Національна академія внутрішніх справ",
+    "world_rank": "7416"
+  },
+  {
+    "address": "Shevchenka Blvd, 81, Cherkasy, Cherkas'ka oblast, Ukraine, 18031",
+    "excellence_rank": "7216",
+    "university_name": "Bohdan Khmelnytsky Cherkasy National University / Черкаський національний університет Богдана Хмельницького",
+    "world_rank": "7579"
+  },
+  {
+    "address": "Mykhaila Omelianovycha-Pavlenka St, 1, Kyiv, Ukraine, 02000",
+    "excellence_rank": "6829",
+    "university_name": "National Transport University / Національний транспортний університет",
+    "world_rank": "7704"
+  },
+  {
+    "address": "Chernyshevska St, 94, Kharkiv, Kharkivs'ka oblast, Ukraine, 61023",
+    "excellence_rank": "7216",
+    "university_name": "National University of Civil Defence of Ukraine / Національний університет цивільного захисту України",
+    "world_rank": "7732"
+  },
+  {
+    "address": "Herasima Kondratieva St, 160, Sumy, Sums'ka oblast, Ukraine, 40000",
+    "excellence_rank": "7216",
+    "university_name": "Sumy National Agrarian University / Сумський національний аграрний університет",
+    "world_rank": "7749"
+  },
+  {
+    "address": "Kyiv, Ukraine, 02000",
+    "excellence_rank": "5963",
+    "university_name": "V I Vernadsky Taurida National University Kyiv",
+    "world_rank": "7825"
+  },
+  {
+    "address": "Uspenska St, 1, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "Odesa State University of Internal Affairs / Одеський державний університет внутрішніх справ",
+    "world_rank": "7859"
+  },
+  {
+    "address": "Haharina Ave, 26, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49005",
+    "excellence_rank": "7216",
+    "university_name": "Dnipro State University of Internal Affairs / Дніпропетровський державний університет внутрішніх справ",
+    "world_rank": "7867"
+  },
+  {
+    "address": "Administratyvnyy Korpus Nltuu, Henerala Chuprynky St, 103, L'viv, L'vivs'ka oblast, Ukraine, 79057",
+    "excellence_rank": "7216",
+    "university_name": "Ukrainian National Forestry University / Національний лісотехнічний університет України",
+    "world_rank": "7878"
+  },
+  {
+    "address": "Universitetska St, 31, Irpin, Kyivs'ka oblast, Ukraine, 08200",
+    "excellence_rank": "7216",
+    "university_name": "University of the State Fiscal Service of Ukraine / Університет державної фіскальної служби України",
+    "world_rank": "7920"
+  },
+  {
+    "address": "Mayakovs'koho Ave, 26, Zaporizhzhia, Zaporiz'ka oblast, Ukraine, 69000",
+    "excellence_rank": "6829",
+    "university_name": "Zaporozhye State Medical University / Запорізький державний медичний університет",
+    "world_rank": "7976"
+  },
+  {
+    "address": "Ostroz'koho St, 32, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+    "excellence_rank": "7216",
+    "university_name": "Vinnitsa State Pedagogical University / Вінницький державний педагогічний університет",
+    "world_rank": "8039"
+  },
+  {
+    "address": "Haharina Ave, 54, Kryvyi Rih, Dnipropetrovs'ka oblast, Ukraine, 50000",
+    "excellence_rank": "7216",
+    "university_name": "Kryvyi Rih State Pedagogical University / Криворізький Державний Педагогічний Університет",
+    "world_rank": "8254"
+  },
+  {
+    "address": "Ilariona Svjentsits'koho St, 17, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+    "excellence_rank": "7216",
+    "university_name": "Ukrainian Catholic University / Український Католицький Університет",
+    "world_rank": "8273"
+  },
+  {
+    "address": "Heorhiia Honhadze St, 9, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54000",
+    "excellence_rank": "7216",
+    "university_name": "Mykolayiv National Agrarian University / Миколаївський національний аграрний університет",
+    "world_rank": "8290"
+  },
+  {
+    "address": "Halyts'ka St, 2, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76000",
+    "excellence_rank": "7216",
+    "university_name": "Ivano Frankivsk National Medical University / Івано Франківський національний медичний університет",
+    "world_rank": "8446"
+  },
+  {
+    "address": "Natsionalnyi Tekhnichnyi University, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25000",
+    "excellence_rank": "7216",
+    "university_name": "Kirovograd National Technical University / Кіровоградський національний технічний університет",
+    "world_rank": "8465"
+  },
+  {
+    "address": "Budivel'nykiv Ave, 129, Mariupol', Donets'ka oblast, Ukraine, 87500",
+    "excellence_rank": "7216",
+    "university_name": "Mariupol State University / Маріупольський державний університет",
+    "world_rank": "8469"
+  },
+  {
+    "address": "Akademika Vernads'koho Blvd, 16В, Kyiv, Ukraine, 03115",
+    "excellence_rank": "7216",
+    "university_name": "European University / Європейський університет",
+    "world_rank": "8533"
+  },
+  {
+    "address": "Mykoly Shpaka St, 3, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv School of Economics / Київська школа економіки",
+    "world_rank": "8533"
+  },
+  {
+    "address": "Fizkul'tury St, 1, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "National University of Physical Education and Sport of Ukraine / Національний Університет Фізичного Виховання І Спорту України",
+    "world_rank": "8569"
+  },
+  {
+    "address": "Velyka Vasylkivska St, 73, Kyiv, Ukraine, 03680",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv National Linguistic University / Київський національний лінгвістичний університет",
+    "world_rank": "8681"
+  },
+  {
+    "address": "Alchevskyh St, 44, Kharkiv, Kharkivs'ka oblast, Ukraine, 61002",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv Petro Vasylenko National Technical University of Agriculture / Харківський національний технічний університет сільського господарства Петра Василенка",
+    "world_rank": "8802"
+  },
+  {
+    "address": "Fontans'ka Rd, 23, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "National University Odesa Academy of Law / Национальный университет Одесская юридическая академия",
+    "world_rank": "8864"
+  },
+  {
+    "address": "Uzhhorods'ka St, 26, Mukacheve, Zakarpats'ka oblast, Ukraine, 89600",
+    "excellence_rank": "6079",
+    "university_name": "Mukachevo State University / Мукачівський державний університет",
+    "world_rank": "8890"
+  },
+  {
+    "address": "Voloshyna St, 37, Uzhhorod, Zakarpats'ka oblast, Ukraine, 88000",
+    "excellence_rank": "7216",
+    "university_name": "Transcarpathian Art Institute / Закарпатський художній інститут",
+    "world_rank": "9010"
+  },
+  {
+    "address": "Illicha Ave, 16, Donetsk, Donets'ka oblast, Ukraine, 83000",
+    "excellence_rank": "6829",
+    "university_name": "Donetsk State Medical University / Донецкий национальный медицинский университет М Горького",
+    "world_rank": "9145"
+  },
+  {
+    "address": "Shevchenka St, 23, Poltava, Poltavs'ka oblast, Ukraine, 36000",
+    "excellence_rank": "7216",
+    "university_name": "Poltava State Medical University / Полтавський державний медичний університет",
+    "world_rank": "9368"
+  },
+  {
+    "address": "Didrikhsona St, 8, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "National University Odesa Maritime Academy /Національний університет Одеська Морська Академія",
+    "world_rank": "9483"
+  },
+  {
+    "address": "Соборна площа, 8/1, Bila Tserkva, Kyivs'ka oblast, Ukraine, 09117",
+    "excellence_rank": "7216",
+    "university_name": "Bila Tserkva State Agrarian University / Білоцерківський Національний Аграрний Університет",
+    "world_rank": "9492"
+  },
+  {
+    "address": "Kleparivska St, 35, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+    "excellence_rank": "7216",
+    "university_name": "Lviv State University of Life Safety / Львівський державний університет безпеки життєдіяльності",
+    "world_rank": "9530"
+  },
+  {
+    "address": "Khdtuba, Sumska St, 40, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv State Technical University of Construction and Architecture / Харківський національний університет будівництва та архітектури",
+    "world_rank": "9616"
+  },
+  {
+    "address": "Shmidta St, Berdians'k, Zaporiz'ka oblast, Ukraine, 71100",
+    "excellence_rank": "7216",
+    "university_name": "Berdyansk State Pedagogical University / Бердянський державний педагогічний університет",
+    "world_rank": "9749"
+  },
+  {
+    "address": "Ushyns'koho St, 15, Kyiv, Ukraine, 03151",
+    "excellence_rank": "6372",
+    "university_name": "National University of Management Kyiv / Национальная академия управления",
+    "world_rank": "9872"
+  },
+  {
+    "address": "Stritenska St, 23, Kherson, Khersons'ka oblast, Ukraine, 73006",
+    "excellence_rank": "7216",
+    "university_name": "Kherson State Agrarian and Economic University / Херсонський державний аграрно-економічний університет",
+    "world_rank": "9956"
+  },
+  {
+    "address": "Stepan Choban St, 1, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25005",
+    "excellence_rank": "7216",
+    "university_name": "(1) (3) Kirovograd State Flight Academy of Ukraine",
+    "world_rank": "10050"
+  },
+  {
+    "address": "Instytutska St, 9, Kyiv, Ukraine, 01601",
+    "excellence_rank": "7216",
+    "university_name": "University of Banking of the National Bank of Ukraine Kyiv / Університет банківської справи Національного банку України",
+    "world_rank": "10133"
+  },
+  {
+    "address": "Heroiv Maidanu St, 8, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+    "excellence_rank": "7216",
+    "university_name": "Khmelnitsky University of Management and Law / Хмельницький Університет Управління та Права",
+    "world_rank": "10322"
+  },
+  {
+    "address": "Het'mana Polubotka St, 53, Chernihiv, Chernihivs'ka oblast, Ukraine, 14000",
+    "excellence_rank": "7216",
+    "university_name": "Chernihiv State Pedagogical University Taras Shevchenko / Чернігівській національний педагогічний університет Т Г Шевченка",
+    "world_rank": "10333"
+  },
+  {
+    "address": "Lvivska St, 23, Kyiv, Ukraine, 03115",
+    "excellence_rank": "7216",
+    "university_name": "Open International University of Human Development Ukraine / Відкритий міжнародний університет розвитку людини Україна",
+    "world_rank": "10370"
+  },
+  {
+    "address": "Bursats'kyi descent, 4, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv State Institute of Culture / Харківська державна академія культури",
+    "world_rank": "10510"
+  },
+  {
+    "address": "Lermontovs'ka St, 27, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "7216",
+    "university_name": "Ukrainian People's Academy / Народная украинская академия",
+    "world_rank": "10518"
+  },
+  {
+    "address": "69006, Sobornyi Ave, 226, Zaporizhzhia, Zaporiz'ka oblast, Ukraine, 69000",
+    "excellence_rank": "7216",
+    "university_name": "Zaporizhzhe State Engineering Academy / Запорiзька державна iнженерна академiя",
+    "world_rank": "10578"
+  },
+  {
+    "address": "Tsentral'na Square, 7, Chernivtsi, Chernivets'ka oblast, Ukraine, 58000",
+    "excellence_rank": "7216",
+    "university_name": "(3) Kyiv National University Trade and Economics Chernivtsi Trade and Economic Institute / Чернівецький торговельно-економічний інститут",
+    "world_rank": "10605"
+  },
+  {
+    "address": "Валіховський провулок, 2, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "Odesa National Medical University / Одеський національний медичний університет",
+    "world_rank": "10616"
+  },
+  {
+    "address": "Sadova St, 2, Uman', Cherkas'ka oblast, Ukraine, 20300",
+    "excellence_rank": "7216",
+    "university_name": "Pavlo Tychyna Uman State Pedagogical University / Уманський державний педагогічний університет П Тичини",
+    "world_rank": "10701"
+  },
+  {
+    "address": "Volodymyra Vernadskoho St, 9, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49044",
+    "excellence_rank": "7216",
+    "university_name": "Dnipro State Medical Academy / Дніпропетровська медична академія",
+    "world_rank": "10788"
+  },
+  {
+    "address": "Shevchenka St, 1, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25000",
+    "excellence_rank": "7216",
+    "university_name": "Central Ukrainian State Pedagogical University V Vynnychenko / Центральноукраїнський державний педагогічний університет імені Володимира Винниченка",
+    "world_rank": "10890"
+  },
+  {
+    "address": "Ivana Franka St, 24, Drohobych, L'vivs'ka oblast, Ukraine, 82100",
+    "excellence_rank": "7216",
+    "university_name": "Drohobych Ivan Franko State Pedagogical University / Дрогобицький державний педагогічний університет Івана Франка",
+    "world_rank": "10890"
+  },
+  {
+    "address": "Seminarska St, 2, Ostroh, Rivnens'ka oblast, Ukraine, 35800",
+    "excellence_rank": "7216",
+    "university_name": "National University of Ostroh Academy / Національний університет Острозька академія",
+    "world_rank": "10984"
+  },
+  {
+    "address": "Pekarska St, 69, L'viv, L'vivs'ka oblast, Ukraine, 79010",
+    "excellence_rank": "3511",
+    "university_name": "Lviv National Medical University Danylo Halycky",
+    "world_rank": "11149"
+  },
+  {
+    "address": "Preobrazhens'ka St, 8, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "Odesa National University of Economics / Одеський національний економічний університет",
+    "world_rank": "11238"
+  },
+  {
+    "address": "03187 3-А, Kiltseva Rd, Kyiv, Ukraine, 08131",
+    "excellence_rank": "7216",
+    "university_name": "Academy of Labour, Social Relations and Tourism / Академія праці, соціальних відносин і туризму",
+    "world_rank": "11252"
+  },
+  {
+    "address": "Amosova St, 58, Kharkiv, Kharkivs'ka oblast, Ukraine, 61176",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv Medical Academy of Postgraduate Education / Харківська медична академія післядипломної освіти",
+    "world_rank": "11319"
+  },
+  {
+    "address": "2, Maksyma Kryvonosa St, Ternopil, Ternopil's'ka oblast, Ukraine, 46000",
+    "excellence_rank": "7216",
+    "university_name": "Ternopil V Hnatiuk National Pedagogical University / Тернопільський національний педагогічний університет",
+    "world_rank": "11368"
+  },
+  {
+    "address": "Hlukhiv, Sumy Oblast, Ukraine, 41401",
+    "excellence_rank": "7216",
+    "university_name": "Oleksandr Dovzhenko Hlukhiv National Pedagogical University / Глухівський національний педагогічний університет Олександра Довженка",
+    "world_rank": "11731"
+  },
+  {
+    "address": "Lazaryana St, 2, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "Dnipro National University of Railway Transport named after Academician V. Lazaryan (Дніпровський національний університет залізничного транспорту імені академіка В. Лазаряна",
+    "world_rank": "11747"
+  },
+  {
+    "address": "Ostrohrads'koho St, 2, Poltava, Poltavs'ka oblast, Ukraine, 36000",
+    "excellence_rank": "7216",
+    "university_name": "Poltava State Pedagogical University Korolenko / Полтавський національний педагогічний університет",
+    "world_rank": "11752"
+  },
+  {
+    "address": "Staryi Blvd, 7, Zhytomyr, Zhytomyrs'ka oblast, Ukraine, 10002",
+    "excellence_rank": "7216",
+    "university_name": "Agroecological Zhitomir National University / Житомирський національний агроекологічний університет",
+    "world_rank": "11793"
+  },
+  {
+    "address": "Lviv, Lviv Oblast, Ukraine, 79000",
+    "excellence_rank": "7216",
+    "university_name": "Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv / Львівський національний університет ветеринарної медицини та біотехнологій імені С. З. Ґжицького",
+    "world_rank": "11793"
+  },
+  {
+    "address": "Boryspilska St, 2, Kyiv, Ukraine, 02099",
+    "excellence_rank": "7216",
+    "university_name": "PHEE Kyiv Medical University / ПВНЗ Київський Медичний Університет",
+    "world_rank": "11814"
+  },
+  {
+    "address": "Yevhena Konovaltsia St, 36, Kyiv, Ukraine, 01601",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv National University of Culture and Arts / Київський національний університет культури і мистецтв",
+    "world_rank": "11873"
+  },
+  {
+    "address": "Chernivtsi, Chernivtsi Oblast, Ukraine, 58000",
+    "excellence_rank": "7216",
+    "university_name": "(3) Chernivtsi Medical College / Чернівецький медичний коледж",
+    "world_rank": "11918"
+  },
+  {
+    "address": "Mystetstv St, 8, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "7216",
+    "university_name": "Academy of Design and Arts Kharkiv / Академія Дизайну і Мистецтв Харків",
+    "world_rank": "12081"
+  },
+  {
+    "address": "Square of Defenders of Ukraine, 3, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "7216",
+    "university_name": "National Academy of the National Guard of Ukraine / Національна академія Національної гвардії України",
+    "world_rank": "12088"
+  },
+  {
+    "address": "Donetsk, Donetsk Oblast, Ukraine",
+    "excellence_rank": "7216",
+    "university_name": "Donetsk National University of Economics and Trade M Tugan-Baranovsky / Донецький національний університет економіки і торгівлі М Туган Барановського",
+    "world_rank": "12088"
+  },
+  {
+    "address": "Dniprobudivs'ka St, 2, Kamianske, Dnipropetrovs'ka oblast, Ukraine, 51900",
+    "excellence_rank": "7216",
+    "university_name": "Dneprodzerzhinsk State Technical University / Дніпродзержинський державний технічний університет",
+    "world_rank": "12088"
+  },
+  {
+    "address": "Smirnova-Lastochkina St, 20, Kyiv, Ukraine, 04053",
+    "excellence_rank": "7216",
+    "university_name": "National University of Fine Arts and Architecture / Національна академія образотворчого мистецтва і архітектури",
+    "world_rank": "12161"
+  },
+  {
+    "address": "Ohiienka St, 61, Kamianets'-podil's'kyi, Khmel'nyts'ka oblast, Ukraine, 32301",
+    "excellence_rank": "7216",
+    "university_name": "Kamyanets Podilskiy National University /Кам'янець Подільський національний університет І Огієнка",
+    "world_rank": "12198"
+  },
+  {
+    "address": "Akademika Vernads'koho Blvd, 16В, Kyiv, Ukraine, 03115",
+    "excellence_rank": "6372",
+    "university_name": "European University Kiev",
+    "world_rank": "12211"
+  },
+  {
+    "address": "Mechnykova St, 34, Odesa, Odes'ka oblast, Ukraine, 65029",
+    "excellence_rank": "7216",
+    "university_name": "Odesa National Maritime University / Одеський Національний Морський Університет",
+    "world_rank": "12290"
+  },
+  {
+    "address": "8/5A, Reitarska St, 8/5А, Kyiv, Kyivs'ka, Ukraine, 01034",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv Institute of International Economics and Business / Інститут економічних досліджень та політичних консультацій",
+    "world_rank": "12346"
+  },
+  {
+    "address": "Pid Holoskom St, 19, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+    "excellence_rank": "7216",
+    "university_name": "Ukrainian Academy of Printing",
+    "world_rank": "12372"
+  },
+  {
+    "address": "Soborna St, 87, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+    "excellence_rank": "7216",
+    "university_name": "(3) Vinnitsa Trade and Economic institute / Вінницький торговельно економічний інститут",
+    "world_rank": "12406"
+  },
+  {
+    "address": "Volodymyra Vernadskoho St, 2/4, Дніпро́, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "University of Customs and Finance / Університет митної справи та фінансів",
+    "world_rank": "12449"
+  },
+  {
+    "address": "Povitroflots'kyi Ave, 28, Kyiv, Ukraine, 03049",
+    "excellence_rank": "7216",
+    "university_name": "National University of Defense of Ukraine / Національний університет оборони України Івана Черняховського",
+    "world_rank": "12792"
+  },
+  {
+    "address": "Universytets'ka St, 16, Kharkiv, Kharkivs'ka oblast, Ukraine, 61003",
+    "excellence_rank": "7216",
+    "university_name": "Ukrainian Engineering and Pedagogical Academy Kharkiv / Українська інженерно педагогічна академія",
+    "world_rank": "12939"
+  },
+  {
+    "address": "54025, Heroiv Stalinhradu Ave, 9, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54000",
+    "excellence_rank": "7216",
+    "university_name": "National University of Shipbuilding Admiral Makarov / Національний університет кораблебудування адмірала Макарова",
+    "world_rank": "13220"
+  },
+  {
+    "address": "Klochkivska St, 228, Kharkiv, Kharkivs'ka oblast, Ukraine, 61045",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv University of Air Forces Ivan Kozhedub / Харківський університет Повітряних Сил І Кожедуба",
+    "world_rank": "13542"
+  },
+  {
+    "address": "Staroportofrankivs'ka St, 26, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "Southern National Pedagogical University KD Ushinskogo / Південноукраїнський національний педагогічний університет К Д Ушинського",
+    "world_rank": "13731"
+  },
+  {
+    "address": "Tadeusha Kostyushka St, 11, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+    "excellence_rank": "7216",
+    "university_name": "Lviv State University of Physical Culture / Львівський Державний Університет Фізичної Культури",
+    "world_rank": "13818"
+  },
+  {
+    "address": "Hrafska St, 2, Nizhyn, Chernihivs'ka oblast, Ukraine, 16600",
+    "excellence_rank": "7216",
+    "university_name": "Nezhinskii State University Nikolai Gogol / Ніжинський державний університет М Гоголя",
+    "world_rank": "13948"
+  },
+  {
+    "address": "Novovokzalna St, 17, Kyiv, Ukraine, 03038",
+    "excellence_rank": "7216",
+    "university_name": "Training Institute of the State Employment Service of Ukraine / Інститут підготовки кадрів Державної служби зайнятості України",
+    "world_rank": "14059"
+  },
+  {
+    "address": "Arkhitektora Horodetskoho St, 1-3/11, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "Ukrainian National Tchaikovsky Academy of Music",
+    "world_rank": "14509"
+  },
+  {
+    "address": "Solomianska St, 7, Kyiv, Ukraine, 03110",
+    "excellence_rank": "7216",
+    "university_name": "State University of Telecommunications / Державний Університет Телекомунікацій",
+    "world_rank": "14598"
+  },
+  {
+    "address": "Sonyachna St, 3, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+    "excellence_rank": "7216",
+    "university_name": "Vinnitsa State Agrarian University / Вінницький національний аграрний університет",
+    "world_rank": "14682"
+  },
+  {
+    "address": "Shevchenka Blvd, 460, Cherkasy, Cherkas'ka oblast, Ukraine, 18000",
+    "excellence_rank": "7216",
+    "university_name": "Cherkasy State Technological University / Черкаський державний технологічний університет",
+    "world_rank": "14709"
+  },
+  {
+    "address": "корпус №1, 68 Desantnykiv St, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54000",
+    "excellence_rank": "7216",
+    "university_name": "Petro Mohyla Black Sea National University / Чорноморський національний університет Петра Могили",
+    "world_rank": "14841"
+  },
+  {
+    "address": "Інститутська вулиця, 1 корпус №4, каб. 174, Uman', Cherkas'ka oblast, Ukraine, 20300",
+    "excellence_rank": "7216",
+    "university_name": "Uman State Agrarian University / Уманський національний університет садівництва",
+    "world_rank": "14920"
+  },
+  {
+    "address": "Panteleimonivs'ka St, 13, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "Odesa State Agrarian University / Одеський державний аграрний університет",
+    "world_rank": "14952"
+  },
+  {
+    "address": "Pidhirna St, 1, Kyiv, Ukraine, 04107",
+    "excellence_rank": "7216",
+    "university_name": "National Academy of Statistics, Accounting and Auditing / Національна академія статистики, обліку та аудиту",
+    "world_rank": "15046"
+  },
+  {
+    "address": "Chernihiv, Chernihiv Oblast, Ukraine, 14000",
+    "excellence_rank": "7216",
+    "university_name": "Chernihiv Regional Institute of Postgraduate Education K D Ushinskogo / Чернігівський обласний інститут післядипломної педагогічної освіти К Д Ушинського",
+    "world_rank": "15136"
+  },
+  {
+    "address": "корпус №1 ПДАТУ, Shevchenka St, 13, Kamianets'-podil's'kyi, Khmel'nyts'ka oblast, Ukraine, 32316",
+    "excellence_rank": "7216",
+    "university_name": "Podolsky Agricultural and Technical State University / Подільський державний аграрно технічний університет",
+    "world_rank": "15150"
+  },
+  {
+    "address": "вул. Свободи, 117А, Berdians'k, Zaporiz'ka oblast, Ukraine, 71100",
+    "excellence_rank": "7216",
+    "university_name": "Berdyansk University of Management and Business / Бердянський університет менеджменту і бізнесу",
+    "world_rank": "15188"
+  },
+  {
+    "address": "6, Berehove, Zakarpats'ka oblast, Ukraine, 90201",
+    "excellence_rank": "7216",
+    "university_name": "Transcarpatian Hungarian College Ferenc Rakoczi II",
+    "world_rank": "15329"
+  },
+  {
+    "address": "учб. Містечко ХНАУ, Dokuchaievske, Kharkivs'ka oblast, Ukraine, 62483",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv National Agricultural University V V Dokuchayev / Харківський національний аграрний університет В В Докучаєва",
+    "world_rank": "15419"
+  },
+  {
+    "address": "Beryslavs'ke Hwy, 24, Kherson, Khersons'ka oblast, Ukraine, 73008",
+    "excellence_rank": "7216",
+    "university_name": "Kherson National Technical University / Херсонський національний технічний університет",
+    "world_rank": "15419"
+  },
+  {
+    "address": "Horodotska St, 26, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+    "excellence_rank": "7216",
+    "university_name": "Lviv State University of Internal Affairs / Львівський державний університет внутрішніх справ",
+    "world_rank": "15473"
+  },
+  {
+    "address": "Korpus A, Vulytsya Kioto, 19, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "(3) Kyiv National Trade and Economic University",
+    "world_rank": "15534"
+  },
+  {
+    "address": "Akademika Dobrokhotova St, 7А, Kyiv, Kyivs'ka oblast, Ukraine, 03142",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv University of Law National Academy of Sciences of Ukraine / Київський університет права",
+    "world_rank": "15645"
+  },
+  {
+    "address": "Kubiiovycha St, 38, L'viv, L'vivs'ka oblast, Ukraine, 79011",
+    "excellence_rank": "7216",
+    "university_name": "Lviv Academy of Arts / Львiвська нацiональна академiя мистецтв",
+    "world_rank": "15660"
+  },
+  {
+    "address": "Kuznechna St, 1, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "State University of Intellectual Technologies and Communications / Державний університет інтелектуальних технологій і зв'язку",
+    "world_rank": "15686"
+  },
+  {
+    "address": "Volodymyra Vernadskoho St, 2/4, Дніпро́, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "University of Customs and Finance (Academy of Customs Service of Ukraine) / Університет митної справи та фінансів",
+    "world_rank": "15747"
+  },
+  {
+    "address": "Shuliavska St, 10/12 В, Kyiv, Ukraine, 04116",
+    "excellence_rank": "7216",
+    "university_name": "International Management Institute MIM Kyiv / Міжнародний інститут менеджменту МІМ Київ",
+    "world_rank": "15803"
+  },
+  {
+    "address": "Hrushevs'koho St, 13, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+    "excellence_rank": "7216",
+    "university_name": "Vinnitsa Academy of Continuous Education / Вінницька академія неперервної освіти",
+    "world_rank": "15980"
+  },
+  {
+    "address": "",
+    "excellence_rank": "7216",
+    "university_name": "International University of Economics and Humanities Acad Stepan Demyanchuk / Міжнародний економіко гуманітарний університет акад Степана Дем'янчука",
+    "world_rank": "16025"
+  },
+  {
+    "address": "Serhiia Yefremova St, 25, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "Dnipro State Agrarian University / Дніпропетровський державний аграрно економічний університет",
+    "world_rank": "16056"
+  },
+  {
+    "address": "Starokyivska St, 10а, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "International Institute of Business / Международный институт бизнеса",
+    "world_rank": "16150"
+  },
+  {
+    "address": "04053 52А, вулиця Січових Стрільців, Київ, Київська обл., Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "Education Management University / Університет менеджменту освіти",
+    "world_rank": "16166"
+  },
+  {
+    "address": "Romens'ka St, 87, Sumy, Sums'ka oblast, Ukraine, 40000",
+    "excellence_rank": "7216",
+    "university_name": "Sumy State Pedagogical University / Сумський державний педагогічний університет А С Макаренка",
+    "world_rank": "16166"
+  },
+  {
+    "address": "Lvivska St, 49, Kyiv, Ukraine, 03179",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv International University / Київський міжнародний університет",
+    "world_rank": "16241"
+  },
+  {
+    "address": "Instytutska St, 14, Bucha, Kyivs'ka oblast, Ukraine, 08292",
+    "excellence_rank": "7216",
+    "university_name": "Ukrainian Humanities Institute Bucha / Український гуманітарний інститут",
+    "world_rank": "16260"
+  },
+  {
+    "address": "9, Dorohozhytska St, Kyiv, Ukraine, 04112",
+    "excellence_rank": "7216",
+    "university_name": "Shupyk National University of Health of Ukraine / Національний університет охорони здоров'я України імені П. Л. Шупика",
+    "world_rank": "16404"
+  },
+  {
+    "address": "Klochkivska St, 333, Kharkiv, Kharkivs'ka oblast, Ukraine, 61051",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv State University of Food Technology and Trade / Харківський державний університет харчування та торгівлі",
+    "world_rank": "16404"
+  },
+  {
+    "address": "Konstytutsii Square, 11, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv National University of Arts I P Kotlyarevsky / Харківський національний університет мистецтв",
+    "world_rank": "16542"
+  },
+  {
+    "address": "Kotel'na St, 2, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54000",
+    "excellence_rank": "7216",
+    "university_name": "Classic International University Orlyk / Міжнародний класичний університет Пилипа Орлика",
+    "world_rank": "16569"
+  },
+  {
+    "address": "Volodymyra Velykoho St, 1, Dubliany, L'vivs'ka oblast, Ukraine, 30831",
+    "excellence_rank": "7216",
+    "university_name": "National Agrarian University Lviv / Львівський національний аграрний університет",
+    "world_rank": "16846"
+  },
+  {
+    "address": "Odesa, Odessa Oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "Odesa National University of Technology",
+    "world_rank": "16846"
+  },
+  {
+    "address": "Poltava, Poltava Oblast, Ukraine, 36000",
+    "excellence_rank": "7216",
+    "university_name": "Poltava State Agrarian University",
+    "world_rank": "16846"
+  },
+  {
+    "address": "Sukhomlyns'koho St, 30, Pereiaslav, Kyivs'ka oblast, Ukraine, 08400",
+    "excellence_rank": "7216",
+    "university_name": "Hryhorii Skovoroda University in Pereiaslav / Університет Григорія Сковороди в Переяславі",
+    "world_rank": "16887"
+  },
+  {
+    "address": "",
+    "excellence_rank": "7216",
+    "university_name": "(3) Gorlovskogo State Pedagogical Institute of Foreign Languages",
+    "world_rank": "16972"
+  },
+  {
+    "address": "Zhukovs'koho St, 70-б, Zaporizhzhia, Zaporiz'ka oblast, Ukraine, 69002",
+    "excellence_rank": "7216",
+    "university_name": "Classical Private University / Класичний приватний університет",
+    "world_rank": "17014"
+  },
+  {
+    "address": "Turhenievska St, 8/14, Kyiv, Ukraine, 01601",
+    "excellence_rank": "7216",
+    "university_name": "Ukrainian American Concordia University",
+    "world_rank": "17231"
+  },
+  {
+    "address": "Teatral'na Square, 2, Chernivtsi, Chernivets'ka oblast, Ukraine, 58002",
+    "excellence_rank": "7216",
+    "university_name": "Bukovinian University / Буковинський університет",
+    "world_rank": "17257"
+  },
+  {
+    "address": "Fontans'ka Rd, 33, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "International Humanitarian University",
+    "world_rank": "17429"
+  },
+  {
+    "address": "Henuez'ka St, 22, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "(3) Odesa Regional Institute of Public Administration",
+    "world_rank": "17601"
+  },
+  {
+    "address": "Heroiv Stalinhrada Ave, 2, Kyiv, Ukraine, 04211",
+    "excellence_rank": "7216",
+    "university_name": "State University of Informatics and Technology / Державний університет інфраструктури та технологій",
+    "world_rank": "17642"
+  },
+  {
+    "address": "Yaroslaviv Val St, 40, Kyiv, Ukraine, 01054",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv National University of Theater Film and Television I K Karpenko Kary / Київський національний університет театру, кіно і телебачення І К Карпенка Карого",
+    "world_rank": "17688"
+  },
+  {
+    "address": "Ostapa Nyzhankivs'koho St, 5, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+    "excellence_rank": "7216",
+    "university_name": "Lviv National Academy of Music Lysenko / Львівська Національна Музична Академія",
+    "world_rank": "17688"
+  },
+  {
+    "address": "Измаильский Государственный Гуманитарный Университет, Riepina St, 12, Izmail, Odes'ka oblast, Ukraine, 68601",
+    "excellence_rank": "7216",
+    "university_name": "Izmail State Humanities University / Ізмаїльський державний гуманітарний університет",
+    "world_rank": "17729"
+  },
+  {
+    "address": "Zoryanyi Ln, 1/5, Kyiv, Ukraine, 04078",
+    "excellence_rank": "7216",
+    "university_name": "Kiev Institute of Business and Technology / Київський Інститут Бізнесу та Технологій",
+    "world_rank": "17884"
+  },
+  {
+    "address": "Donetska St, 1, Sieverodonets'k, Luhans'ka oblast, Ukraine, 93400",
+    "excellence_rank": "7216",
+    "university_name": "Lugansk State University of Internal Affairs E A Didorenko / Луганський державний університет внутрішніх справ Е О Дідоренка",
+    "world_rank": "17902"
+  },
+  {
+    "address": "Mitskevycha Square, 3, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76000",
+    "excellence_rank": "7216",
+    "university_name": "Ivano Frankivsk Regional Institute of Postgraduate Education / Івано Франківський обласний інститут післядипломної педагогічної освіти",
+    "world_rank": "17902"
+  },
+  {
+    "address": "Tarasa Shevchenko Blvd, 27, Kyiv, Ukraine, 01032",
+    "excellence_rank": "7216",
+    "university_name": "Academy of Advocacy of Ukraine / Академія адвокатури України",
+    "world_rank": "18088"
+  },
+  {
+    "address": "Nezalezhnoi Ukrainy St, 57А, Zaporizhzhia, Zaporiz'ka oblast, Ukraine, 69035",
+    "excellence_rank": "7216",
+    "university_name": "Zaporizhzhya Regional Institute of Postgraduate Education / Запорізький обласний інститут післядипломної педагогічної освіти",
+    "world_rank": "18088"
+  },
+  {
+    "address": "Vyacheslava Chornovola St, 74, Rivne, Rivnens'ka oblast, Ukraine, 33000",
+    "excellence_rank": "7216",
+    "university_name": "Rivne Regional Institute of Postgraduate Education / Рівненський обласний інститут післядипломної педагогічної освіти",
+    "world_rank": "18160"
+  },
+  {
+    "address": "Lavrska St, 9, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "National Academy of Culture and Arts Management / Національна академія керівних кадрів культури і мистецтв",
+    "world_rank": "18190"
+  },
+  {
+    "address": "Henerala Batiuka St, 19, Slovyans'k, Donets'ka oblast, Ukraine, 84100",
+    "excellence_rank": "7216",
+    "university_name": "Donbas State Pedagogical University / Донбаський державний педагогічний університет",
+    "world_rank": "18296"
+  },
+  {
+    "address": "Platona Maiborody St, 32, Kyiv, Ukraine, 04050",
+    "excellence_rank": "7216",
+    "university_name": "Institute of Neurosurgery AMS of Ukraine / Інститут нейрохірургії А ПРомоданова АМН України",
+    "world_rank": "18427"
+  },
+  {
+    "address": "Shevchenka St, 46, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+    "excellence_rank": "7216",
+    "university_name": "National Academy of State Border Service of Ukraine Bohdan Khmelnytsky / Національна академія Державної прикордонної служби України Богдана Хмельницького",
+    "world_rank": "18495"
+  },
+  {
+    "address": "Mahnitohors'kyi Ln, 3, Kyiv, Kyivs'ka, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "International Scientific and Technical University Academician George Buhay / Міжнародний науково технічний університет",
+    "world_rank": "18665"
+  },
+  {
+    "address": "Vynnychenka St, 31, Luts'k, Volyns'ka oblast, Ukraine, 43000",
+    "excellence_rank": "7216",
+    "university_name": "Volyn Institute for Postgraduate Education / Волинський інститут післядипломної педагогічної освіти",
+    "world_rank": "18820"
+  },
+  {
+    "address": "Novosel's'koho St, 63, Odesa, Odes'ka oblast, Ukraine, 65000",
+    "excellence_rank": "7216",
+    "university_name": "Conservatory Odesa Musical Academy / Одеська національна музична академія",
+    "world_rank": "19023"
+  },
+  {
+    "address": "Ushakova Ave, 20, Kherson, Khersons'ka oblast, Ukraine, 73009",
+    "excellence_rank": "7216",
+    "university_name": "Kherson State Maritime Academy / Херсонская Государственная Морская Академия",
+    "world_rank": "19123"
+  },
+  {
+    "address": "Bohdana Khmel'nyts'koho St, 15, Ternopil, Ternopil's'ka oblast, Ukraine, 46002",
+    "excellence_rank": "7216",
+    "university_name": "Vyacheslav Chornovil Halytskyi College / Галицький коледж імені В'ячеслава Чорновола",
+    "world_rank": "19254"
+  },
+  {
+    "address": "Luhansk, Luhansk Oblast, Ukraine, 91000",
+    "excellence_rank": "7216",
+    "university_name": "Lugansk State Medical University / Луганський державний медичний університет",
+    "world_rank": "19317"
+  },
+  {
+    "address": "Shevchenka Street, 95, Chernihiv, Chernihivs'ka oblast, Ukraine, 14027",
+    "excellence_rank": "7216",
+    "university_name": "Chernihiv Polytechnic National University / Національний університет Чернігівська політехніка",
+    "world_rank": "19317"
+  },
+  {
+    "address": "Volodymyra Antonovycha St, 70, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "Dnipro Regional Institute of Postgraduate Education / Дніпропетровський обласний інститут післядипломної педагогічної освіти",
+    "world_rank": "19388"
+  },
+  {
+    "address": "Nechuya-Levyts'koho St, 16, Cherkasy, Cherkas'ka oblast, Ukraine, 18036",
+    "excellence_rank": "7216",
+    "university_name": "Eastern University of Economics and Management / Східноєвропейський університет",
+    "world_rank": "19615"
+  },
+  {
+    "address": "Proskurivs'koho Pidpillya St, 139, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29013",
+    "excellence_rank": "7216",
+    "university_name": "Khmelnitsky Humanities Pedagogical Academy / Хмельницька гуманітарно педагогічна академія",
+    "world_rank": "19655"
+  },
+  {
+    "address": "Svitlyts'koho St, 31/7, Kyiv, Ukraine, 04136",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv Academy of Hairdressing / Київська Академія перукарського мистецтва",
+    "world_rank": "19781"
+  },
+  {
+    "address": "Vulytsya Heroyiv Nebesnoyi Sotni, 14, Kramators'k, Donets'ka oblast, Ukraine, 84300",
+    "excellence_rank": "7216",
+    "university_name": "Donbas National Academy of Civil Engineering and Architecture / Донбаська Нацiональна Академiя Будiвництва та Архiтектури",
+    "world_rank": "19903"
+  },
+  {
+    "address": "Triokhsviatytelska St, 6, Kyiv, Ukraine, 01601",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv Orthodox Theological Academy / Київська православна богословська академія",
+    "world_rank": "19940"
+  },
+  {
+    "address": "Orlovs'ka St, 1, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "Dnipro Humanitarian University / Дніпропетровський гуманітарний університет",
+    "world_rank": "19967"
+  },
+  {
+    "address": "Akademika Hlushkova Ave, 42В, Kyiv, Ukraine, 03187",
+    "excellence_rank": "7216",
+    "university_name": "International European University / Міжнародний європейський університет",
+    "world_rank": "19970"
+  },
+  {
+    "address": "Mykhaila Stel'makha St, 10а, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv Slavic University / Київський славістичний університет",
+    "world_rank": "20037"
+  },
+  {
+    "address": "Mykhaila Maksymovycha St, 22, Kyiv, Kyivs'ka oblast, Ukraine, 03022",
+    "excellence_rank": "7216",
+    "university_name": "National Academy of Security Service of Ukraine / Національнa академія Служби безпеки України",
+    "world_rank": "20204"
+  },
+  {
+    "address": "вул. М м, вулиця Туган-Барановського, 10, L'viv, L'vivs'ka oblast, Ukraine, 79005",
+    "excellence_rank": "7216",
+    "university_name": "Lviv University of Trade and Economics / Львівський торговельно-економічний університет",
+    "world_rank": "20265"
+  },
+  {
+    "address": "4B, Liubovi Maloj Ave, 4Б, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "7216",
+    "university_name": "Institute of Oriental Studies and International Relations Kharkiv Collegium / Інститут сходознавства і міжнародних відносин Харківський колегіум",
+    "world_rank": "20453"
+  },
+  {
+    "address": "Zhylianska St, 88, Kyiv, Ukraine, 01032",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv Municipal Academy of Circus and Variety Arts / Київська муніципальна академія естрадного та циркового мистецтв",
+    "world_rank": "20526"
+  },
+  {
+    "address": "Liska St, 16, L'viv, L'vivs'ka oblast, Ukraine, 79029",
+    "excellence_rank": "7216",
+    "university_name": "Lviv Institute of Management / Львівський інститут менеджменту",
+    "world_rank": "20526"
+  },
+  {
+    "address": "Dzhona Makkeina St, 33, Kyiv, Ukraine, 01042",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv Academy of Municipal Management / Академія муніципального управління",
+    "world_rank": "20601"
+  },
+  {
+    "address": "Lva Tolstoho St, 31, Kyiv, Ukraine, 01032",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv Institute of Music R M Glier / Київський інститут музики Р М Глієра",
+    "world_rank": "20824"
+  },
+  {
+    "address": "Illicha Ave, 16, Donetsk, Donets'ka oblast, Ukraine, 83000",
+    "excellence_rank": "7216",
+    "university_name": "Donetsk National Medical University",
+    "world_rank": "20857"
+  },
+  {
+    "address": "Vulytsya Yevhena Konovalʹtsya, 35, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76018",
+    "excellence_rank": "7216",
+    "university_name": "King Danylo University / Університет Короля Данила",
+    "world_rank": "21544"
+  },
+  {
+    "address": "Fontans'ka Rd, 10, Odesa, Odes'ka oblast, Ukraine, 65009",
+    "excellence_rank": "7216",
+    "university_name": "Military Academy Odesa / Військова академія Одеса",
+    "world_rank": "21593"
+  },
+  {
+    "address": "Pokrysheva St, 41, Kherson, Khersons'ka oblast, Ukraine, 73040",
+    "excellence_rank": "7216",
+    "university_name": "Kherson Academy of Continuous Education of Kherson Regional Council / Херсонська академія неперервної освіти Херсонської обласної ради",
+    "world_rank": "21593"
+  },
+  {
+    "address": "Kharkiv, Kharkiv Oblast, Ukraine",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv State Academy of Zooveterinary / Харківська державна зооветеринарна академія",
+    "world_rank": "21721"
+  },
+  {
+    "address": "Henerala Zhmachenka St, 26, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv University of Tourism, Economics and Law / Київський університет туризму економіки і права",
+    "world_rank": "21771"
+  },
+  {
+    "address": "Didrikhsona St, 4, Odesa, Odes'ka oblast, Ukraine, 65029",
+    "excellence_rank": "7216",
+    "university_name": "Odesa State Academy of Civil Engineering and Architecture / Одесская государственная академия строительства и архитектуры",
+    "world_rank": "21950"
+  },
+  {
+    "address": "6155 Pearl Rd, Parma Heights, OH 44130, USA",
+    "excellence_rank": "7216",
+    "university_name": "Ukrainian Academy of Public Administration",
+    "world_rank": "22002"
+  },
+  {
+    "address": "Velyka Berdychivska St, 46/15, Zhytomyr, Zhytomyrs'ka oblast, Ukraine, 10002",
+    "excellence_rank": "7216",
+    "university_name": "Zhytomyr Nursing Institute / Житомирський інститут медсестринства",
+    "world_rank": "22054"
+  },
+  {
+    "address": "243, вулиця В'ячеслава Чорновола, Черкаси, Черкаська область, Ukraine, 18000",
+    "excellence_rank": "7216",
+    "university_name": "Cherkasy State Business College / Черкаський державний бізнес-коледж",
+    "world_rank": "22143"
+  },
+  {
+    "address": "Yuriia Illienka St, 81Б, Kyiv, Ukraine, 04050",
+    "excellence_rank": "7216",
+    "university_name": "National Academy of the Public Prosecutor of Ukraine / Національна академія прокуратури України",
+    "world_rank": "22148"
+  },
+  {
+    "address": "Lyvarna St, 10, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "Dnipro Conservatoire Glinka / Дніпропетровська консерваторія ім М Глінки",
+    "world_rank": "22200"
+  },
+  {
+    "address": "Heroiv Maidanu St, 13, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+    "excellence_rank": "7216",
+    "university_name": "Khmelnitsky University of Economics and Business / Університет економіки і підприємництва",
+    "world_rank": "22346"
+  },
+  {
+    "address": "Peremohy Ave, 37, Kyiv, Kyivs'ka oblast, Ukraine, 03056",
+    "excellence_rank": "7216",
+    "university_name": "International University of Finance / Міжнародний університет фінансів",
+    "world_rank": "22518"
+  },
+  {
+    "address": "Modesta Mentsyns'koho St, 8, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+    "excellence_rank": "7216",
+    "university_name": "Lviv Institute of Economy and Tourism / Львівський державний інститут економіки і туризму",
+    "world_rank": "22569"
+  },
+  {
+    "address": "Hoidy St, 4, Uzhhorod, Zakarpats'ka oblast, Ukraine, 88000",
+    "excellence_rank": "7216",
+    "university_name": "Carpathian University Augustine Voloshin / Карпатський університет Августина Волошина",
+    "world_rank": "22740"
+  },
+  {
+    "address": "Rustaveli Ln, 7, Kharkiv, Харківська, Ukraine, 61000",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv Humanitarian Pedagogical Academy / Харківська гуманітарно педагогічна академія",
+    "world_rank": "22795"
+  },
+  {
+    "address": "Vulytsya Pivnichno-Syretsʹka, 3, Kyiv, Ukraine, 04073",
+    "excellence_rank": "7216",
+    "university_name": "Mystetskyy Institute of Art and Design Modeling Salvador Dali / Мистецький Інститут Художнього Моделювання Та Дизайну Сальвадора Далі",
+    "world_rank": "23070"
+  },
+  {
+    "address": "Valer'yana Polishchuka St, 76, L'viv, L'vivs'ka oblast, Ukraine, 79018",
+    "excellence_rank": "7216",
+    "university_name": "Lviv Medical Institute / Львівський медичний інститут",
+    "world_rank": "23315"
+  },
+  {
+    "address": "Khortytsia, Zaporizhzhia, Zaporizhia Oblast, Ukraine, 69061",
+    "excellence_rank": "7216",
+    "university_name": "Khortytsia National Educational and Rehabilitation Academy",
+    "world_rank": "23315"
+  },
+  {
+    "address": "Sevastopolska St, 17, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "Dnipro Medical Institute of Traditional and Alternative Medicine / Дніпропетровський медичний інститут традиційної і нетрадиційної медицини",
+    "world_rank": "23453"
+  },
+  {
+    "address": "Kulparkivska St, 99, L'viv, L'vivs'ka oblast, Ukraine, 79021",
+    "excellence_rank": "7216",
+    "university_name": "Lviv University of Business and Law / Львівський університет бізнесу та права",
+    "world_rank": "23517"
+  },
+  {
+    "address": "Vintera Blvd, 20, Zaporizhzhia, Zaporiz'ka oblast, Ukraine, 69000",
+    "excellence_rank": "7216",
+    "university_name": "Zaporizhia Medical Academy of Post-Graduate Education Ministry of Health of Ukraine",
+    "world_rank": "23590"
+  },
+  {
+    "address": "Prov. Litseynyy, 1, Kremenets', Ternopil's'ka oblast, Ukraine, 47003",
+    "excellence_rank": "7216",
+    "university_name": "Kremenetskogo Regional Pedagogical Institute / Кременецький обласний гуманітарно педагогічний інститут Т Шевченка",
+    "world_rank": "23796"
+  },
+  {
+    "address": "Berezniakivska St, 26Б, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv University of Market Relations / Київський університет ринкових відносин",
+    "world_rank": "23796"
+  },
+  {
+    "address": "Zoryanyi Ln, 1/5, Kyiv, Ukraine, 04078",
+    "excellence_rank": "7216",
+    "university_name": "School of Business KYBYT / Школа Бизнеса КИБИТ",
+    "world_rank": "23930"
+  },
+  {
+    "address": "Street Hvardiis'koi Dyvizii, 49-yi, 37-41, Kherson, Khersons'ka oblast, Ukraine, 73000",
+    "excellence_rank": "7216",
+    "university_name": "International University of Business and Law Kherson / Міжнародний університет бізнесу і права",
+    "world_rank": "24067"
+  },
+  {
+    "address": "Mykhaila Boichuka St, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv State Institute of Decorative and Applied Art and Design Michael Boychuk / Київський державний інститут декоративно прикладного мистецтва і дизайну Михайла Бойчука",
+    "world_rank": "24299"
+  },
+  {
+    "address": "Kiyashka St, 16-Б, Zaporizhzhia, Zaporiz'ka oblast, Ukraine, 69041",
+    "excellence_rank": "7216",
+    "university_name": "Zaporozhye Institute of Economics and Information Technology / Запорізький інститут економіки та інформаційних технологій",
+    "world_rank": "24455"
+  },
+  {
+    "address": "Yaroslava Mudroho St, 2а, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+    "excellence_rank": "7216",
+    "university_name": "(3) Khmelnitsky Institute of Social Technology University of Ukraine / Хмельницький інститут соціальних технологій",
+    "world_rank": "24517"
+  },
+  {
+    "address": "Klochkivska St, 99, Kharkiv, Kharkivs'ka oblast, Ukraine, 61058",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv State Academy of Physical Culture / Харківська державна академія фізичної культури",
+    "world_rank": "24521"
+  },
+  {
+    "address": "Mykhaila Lomonosova St, 18, Kyiv, Ukraine, 03022",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv Cooperative Institute of Business and Law / Київський кооперативний інститут бізнесу і права",
+    "world_rank": "24673"
+  },
+  {
+    "address": "Kharkiv, Kharkiv Oblast, Ukraine",
+    "excellence_rank": "7216",
+    "university_name": "(3) Kharkiv Regional Institute of Public Administration / Харківський регіональний інститут державного управління",
+    "world_rank": "24824"
+  },
+  {
+    "address": "Donetsk, Donetsk Oblast, Ukraine",
+    "excellence_rank": "7216",
+    "university_name": "Donetsk University of Economics and Law / Донецкий университет экономики и прав",
+    "world_rank": "24899"
+  },
+  {
+    "address": "Staryi Podil St, 51, Ternopil, Ternopil's'ka oblast, Ukraine, 46002",
+    "excellence_rank": "7216",
+    "university_name": "Ternopil Institute of Social and Informational Technologies / Тернопільський інститут соціальних та інформаційних технологій",
+    "world_rank": "25129"
+  },
+  {
+    "address": "вулиця Юрія Іллєнка, 81, 1 поверх, Kyiv, Ukraine, 04050",
+    "excellence_rank": "7216",
+    "university_name": "Ukrainian Institute of Stock Market / Український інститут розвитку фондового ринку",
+    "world_rank": "25129"
+  },
+  {
+    "address": "",
+    "excellence_rank": "7216",
+    "university_name": "State Institute for training and retraining of Industry / Державний інститут підготовки та перепідготовки кадрів промисловості",
+    "world_rank": "25704"
+  },
+  {
+    "address": "Kam'yanets'ka St, 3, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+    "excellence_rank": "7216",
+    "university_name": "Khmelnytsky Cooperative Trade and Economic Institute / Хмельницький кооперативний торговельно економічний інститут",
+    "world_rank": "25704"
+  },
+  {
+    "address": "Dzhona Makkeina St, 33, Kyiv, Ukraine, 03028",
+    "excellence_rank": "7216",
+    "university_name": "Postgraduate Institute UKRSTENO / Інститут післядипломної освіти УКРСТЕНО",
+    "world_rank": "25704"
+  },
+  {
+    "address": "Donetske Hwy, 11, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "International Humanitarian Pedagogical Institute Beit Chana / Міжнародний гуманітарно педагогічний інститут Бейт Хана",
+    "world_rank": "25780"
+  },
+  {
+    "address": "Smolenska St, 31/33, Kyiv, Ukraine, 03057",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv Economic Institute of Management / Київський економічний інститут менеджменту",
+    "world_rank": "25940"
+  },
+  {
+    "address": "Lesi Ukrainky Blvd, 34, Kyiv, Ukraine, 01133",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv Institute of Modern Psychology and Psychotherapy / Київський інститут сучасної психології та психотерапії",
+    "world_rank": "26367"
+  },
+  {
+    "address": "Bolshaya Perspektivnaya St, 1, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25000",
+    "excellence_rank": "7216",
+    "university_name": "Donetsk State University of Internal Affairs / онецький державний університет внутрішніх справ",
+    "world_rank": "26548"
+  },
+  {
+    "address": "vulytsia Akademika Jangelia, 59, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+    "excellence_rank": "7216",
+    "university_name": "Vinnytsia Cooperative Institute / Вінницький кооперативний інститут",
+    "world_rank": "26759"
+  },
+  {
+    "address": "54029, 2A, Robocha St, 2А, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54000",
+    "excellence_rank": "7216",
+    "university_name": "International Technological University Mykolaiv Polytechnic / Міжнародний технологічний університет Миколаївська політехніка",
+    "world_rank": "26759"
+  },
+  {
+    "address": "Kuznechna St, 15, Odesa, Odes'ka oblast, Ukraine, 65020",
+    "excellence_rank": "7216",
+    "university_name": "Odesa State Academy of Technical Regulation and Quality / Одеська державна академія технічного регулювання та якості",
+    "world_rank": "27046"
+  },
+  {
+    "address": "Nezalezhnosti Ave, 6, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv University",
+    "world_rank": "27046"
+  },
+  {
+    "address": "Slobozhanskaya, 68, Starobil's'k, Luhans'ka oblast, Ukraine, 92701",
+    "excellence_rank": "7216",
+    "university_name": "Lugansk National Agrarian University / Луганський національний аграрний університет",
+    "world_rank": "27159"
+  },
+  {
+    "address": "Turgenevskaya ulitsa, 11, Kyiv, Ukraine, 01054",
+    "excellence_rank": "7216",
+    "university_name": "Institute of Ecology of Economics and Law / Інститут екології економіки і права",
+    "world_rank": "27343"
+  },
+  {
+    "address": "площа Дружби Народів 8 25000, Kropyvnytskyi, Kirovohrad Oblast, Ukraine, 25015",
+    "excellence_rank": "7216",
+    "university_name": "(3) Kirovograd Institute of Human Development / Кіровоградський інститут розвитку людини",
+    "world_rank": "27728"
+  },
+  {
+    "address": "Klochkivska St, 228, Kharkiv, Kharkivs'ka oblast, Ukraine, 61045",
+    "excellence_rank": "6829",
+    "university_name": "Kozhedub Air Force University",
+    "world_rank": "27845"
+  },
+  {
+    "address": "vulytsia Akademika Jangelia, 4, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+    "excellence_rank": "7216",
+    "university_name": "University of Modern Knowledge / Університет сучасних знань",
+    "world_rank": "27846"
+  },
+  {
+    "address": "Lamana St, 2А, 2A, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "Dnipro State Institute of Physical Culture and Sports / Дніпропетровський державний інститут фізичної культури і спорту",
+    "world_rank": "27846"
+  },
+  {
+    "address": "Sicheslavska Naberezhna St, 18, Дніпро́, Dnipropetrovs'ka oblast, Ukraine, 49000",
+    "excellence_rank": "7216",
+    "university_name": "(3) Alfred Nobel University Dnipro Kremenchug / Кременчуцький інститут Дніпропетровскького університету А Нобеля",
+    "world_rank": "27954"
+  },
+  {
+    "address": "2, Heroiv Krut St, 42, Bila Tserkva, Kyivs'ka oblast, Ukraine, 09100",
+    "excellence_rank": "7216",
+    "university_name": "(3) Bila Institute of Economics and Management / Білоцерківський інститут економіки та управління",
+    "world_rank": "28061"
+  },
+  {
+    "address": "Metrobudivska St, 5А, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "University of New Technologies / Університет новітніх технологій",
+    "world_rank": "28152"
+  },
+  {
+    "address": "",
+    "excellence_rank": "7216",
+    "university_name": "State Environmental Academy of Postgraduate Education and Management / Державна екологічна академія післядипломної освіти та управління",
+    "world_rank": "28265"
+  },
+  {
+    "address": "Stadionna St, 2/10, Kyiv, Ukraine, 03049",
+    "excellence_rank": "7216",
+    "university_name": "Kiev College of Civil Engineering, Architecture and Design / Київський коледж будівництва, архітектури та дизайну",
+    "world_rank": "28265"
+  },
+  {
+    "address": "Melitopol', Zaporizhia Oblast, Ukraine, 72300",
+    "excellence_rank": "7216",
+    "university_name": "(3) Melitopol Institute of Ecology and Social Technologies / Мелітопольський інститут екології і соціальних технологій",
+    "world_rank": "28265"
+  },
+  {
+    "address": "",
+    "excellence_rank": "7216",
+    "university_name": "Educational and Scientific Professional Pedagogical Institute / Навчально науковий професійно педагогічний інститут",
+    "world_rank": "28665"
+  },
+  {
+    "address": "Kharkivs'ke Hwy, 121, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "International Academy of Ecology and Medicine / Міжнародна академія екології та медицини",
+    "world_rank": "28872"
+  },
+  {
+    "address": "Karbysheva St, 2, Luts'k, Volyns'ka oblast, Ukraine, 43023",
+    "excellence_rank": "7216",
+    "university_name": "Academy of recreational Technology and Law / Академія рекреаційних технологій і права",
+    "world_rank": "28982"
+  },
+  {
+    "address": "Kosmonavtiv Ave, 42, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+    "excellence_rank": "7216",
+    "university_name": "Vinnytsya Institute designing clothes and Entrepreneurship / Вінницький інститут конструювання одягу і підприємництва",
+    "world_rank": "29247"
+  },
+  {
+    "address": "53211, Запорізька вулиця, 31, Нікополь, Дніпропетровська область, Ukraine, 53200",
+    "excellence_rank": "7216",
+    "university_name": "Nikopol Economic University / Нікопольський економічний університет",
+    "world_rank": "29247"
+  },
+  {
+    "address": "Eastern Europe",
+    "excellence_rank": "7216",
+    "university_name": "Eastern European Slavic University / Східно європейський слов'янський університет",
+    "world_rank": "29559"
+  },
+  {
+    "address": "",
+    "excellence_rank": "7216",
+    "university_name": "Institute of Business Administration / Інститут ділового адміністрування",
+    "world_rank": "30042"
+  },
+  {
+    "address": "Heroiv Stalinhrada Ave, 10, Kyiv, Ukraine, 02000",
+    "excellence_rank": "7216",
+    "university_name": "Kyiv Academy of Arts / Київська Академія мистецтв",
+    "world_rank": "30042"
+  },
+  {
+    "address": "Kyrhyzka St, 15, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+    "excellence_rank": "7216",
+    "university_name": "Kharkiv Institute of Personnel Management / Харківський інститут кадрів управління",
+    "world_rank": "30140"
+  },
+  {
+    "address": "Novokakhovsʹkyy Politekhnichnyy Instytut, 35, Vulytsya Pershotravneva, Nova Kakhovka, Khersons'ka oblast, Ukraine, 74900",
+    "excellence_rank": "7216",
+    "university_name": "Novokakhovskiy Polytechnic Institute / Новокаховський політехнічний інститут",
+    "world_rank": "30223"
+  },
+  {
+    "address": "",
+    "excellence_rank": "7216",
+    "university_name": "Tutkovsky Institute / Інститут Тутковського",
+    "world_rank": "30372"
+  },
+  {
+    "address": "Industrialna St, Pervomais'k, Mykolaivs'ka oblast, Ukraine, 55200",
+    "excellence_rank": "7216",
+    "university_name": "Pervomaisk Industrial and Pedagogical Technical School / Первомайськ індустріально-педагогічний технікум",
+    "world_rank": "30635"
+  },
+  {
+    "address": "Ushakova Ave, 60, Kherson, Khersons'ka oblast, Ukraine, 73000",
+    "excellence_rank": "7216",
+    "university_name": "Kherson Economic and Legal Institute / Херсонский экономико-правовой институт",
+    "world_rank": "30815"
+  },
+  {
+    "address": "Heroiv Maidanu St, 32, L'viv, L'vivs'ka oblast, Ukraine, 79026",
+    "excellence_rank": "7216",
+    "university_name": "Academy Army Hetman Sahaidachny / Академія сухопутних військ гетьмана Петра Сагайдачного",
+    "world_rank": "30973"
+  }
+]
